@@ -11,5 +11,5 @@ This lab, even though it was simple, was one of my favorites. I got to code for 
 Lab 6, Part 2
 Blackjack is the only card game I know! So getting to make a program similar to it was pretty fun, even if we couldn’t fully play it. In the future I'd like to add some more functions to this to make it a fully playable program, even if that's wishful thinking for now.
 
-Lab 8, Part 2
-I think the patterns are just really cool. That’s all there is to it. Visual Design is key to any good program, so learning something like this is a good skill to have.
+Lab 2, Part 1
+This lab was really fun to make, even if it was simple looking back. Mad Lib is a very fun game if you have a creative mind, and so the process of learning how to 1-to-1 recreate it in C++ is a fun feature that will definitely be returning in my own personal projects.
